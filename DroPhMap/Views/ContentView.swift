@@ -48,7 +48,7 @@ struct ContentView: View {
                  }
                      .alert(isPresented: $showAlert2) {
                          Alert(
-                             title: Text("Written by Jakub Chodara"),
+                             title: Text("Written by ku6a-cj"),
                              message: Text("One of my first projects \n" +
                                            "Please let me know your feedback \n"
                                           + "core by Code Place \n") +
